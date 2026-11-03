@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
+dist/
+build/
+.DS_Store
+*.ipynb_checkpoints/
+
+# sekrety / system
+.env
+secrets.h
+secrets.py
