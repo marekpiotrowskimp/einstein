@@ -239,3 +239,7 @@ Phase 7 — Interactive Exploration (Jupyter Notebook)
 
 > **Early exploration phase.** Hypotheses are working assumptions, not established theory.  
 > The goal is to build tools rigorous enough to find contradictions, constraints, and — potentially — new predictions.
+
+## License
+
+MIT — see [LICENSE](LICENSE).
